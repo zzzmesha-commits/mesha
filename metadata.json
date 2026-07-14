@@ -1,0 +1,6 @@
+{
+  "name": "Dark Canvas",
+  "description": "An elegant, minimalist black canvas showcasing a centered high-contrast artistic portrait.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
